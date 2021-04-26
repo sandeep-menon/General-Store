@@ -1,7 +1,7 @@
 # General-Store
 This is a general purpose web application for order processing, billing and inventory management. Built using MongoDB, Express, Vue, NodeJS (MEVN Stack).
 
-<a href="https://my-general-store-1708.herokuapp.com/" target="_blank">Demo</a><br>
+[Demo](https://my-general-store-1708.herokuapp.com)
 
 **NOTE**: Demo is hosted on free tier of Heroku which sleeps after 30 mins of inactivity. Please give it a moment to wake up.
 
