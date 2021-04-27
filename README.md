@@ -16,7 +16,7 @@ This is a general purpose CRUD web application for order processing, billing and
 * Create/Update/Delete products in inventory
 * Create order with relational hierarchy with products
 * Validate order within server upon submission
-* Update product inventory when order is validated
+* Update product inventory when order passes all validations
 * Get all orders created till date
 * View order in detail and print bill
 
