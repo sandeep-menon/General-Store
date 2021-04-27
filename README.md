@@ -1,7 +1,7 @@
 # General-Store
 This is a general purpose CRUD web application for order processing, billing and inventory management. Built using MongoDB, Express, Vue, NodeJS (MEVN Stack).
 
-### Complete tech stack:
+### Complete tech stack
 * NodeJS and Express REST API
 * Cloud hosted MongoDB database
 * Vue library along with Vuetify UI
@@ -11,7 +11,7 @@ This is a general purpose CRUD web application for order processing, billing and
 
 **NOTE**: Demo is hosted on free tier of Heroku which sleeps after 30 mins of inactivity. Please give it a moment to wake up.
 
-### Features:
+### Features
 * Get all products in inventory
 * Create/Update/Delete products in inventory
 * Create order with relational hierarchy with products
