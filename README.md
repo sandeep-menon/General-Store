@@ -18,6 +18,7 @@ This is a general purpose CRUD web application for order processing, billing and
 * Validate order within server upon submission
 * Update product inventory when order is validated
 * Get all orders created till date
+* View order in detail and print bill
 
 ### Usage
 > Step 1: Run the following commands in your terminal:
