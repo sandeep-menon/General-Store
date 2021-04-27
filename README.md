@@ -31,7 +31,7 @@ This is a general purpose CRUD web application for order processing, billing and
     npm install
     npm run dev
     
-> Step 4: Open the other terminal and run the following commands
+> Step 4: Open the other terminal and run the following commands:
 
     cd client
     npm install 
