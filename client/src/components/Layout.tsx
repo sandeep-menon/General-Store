@@ -26,11 +26,11 @@ type LayoutProps = {
 };
 
 // Interface for sidebar items
-interface SidebarItem {
-  name: string;
-  path: string;
-  icon: React.ReactNode;
-}
+// interface SidebarItem {
+//   name: string;
+//   path: string;
+//   icon: React.ReactNode;
+// }
 
 const Layout: React.FC<LayoutProps> = ({ children }) => {
   const location = useLocation();
