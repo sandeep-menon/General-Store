@@ -1,6 +1,6 @@
 import { Route, Routes } from 'react-router-dom';
 import './App.css'
-import Layout from './components/Layout'
+import Layout from './components/layout/Layout'
 import { ThemeProvider } from './components/theme-provider'
 // import { useStatusStore } from './store/status';
 import Dashboard from './routes/Dashboard';
